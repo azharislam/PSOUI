@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PSOUI</string>
+    <string name="description">Enter the names of the services, their costs for WLAN and DATA and Utilities (Priority Cost)</string>
+    <string name="title_activity_solution">SolutionActivity</string>
+    <string name="description2">Enter the number of particles to initialise, the maximum number of iterations for the algorithm to complete, the predicted solution and the current battery level of the device</string>
+
+</resources>
